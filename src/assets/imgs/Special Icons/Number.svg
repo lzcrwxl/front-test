@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Special icon/Number</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Special-icon/Number" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="special-icon/progress-number">
+            <circle id="Oval" fill="#F8FFE5" cx="12" cy="12" r="12"></circle>
+            <path d="M14,0.16591688 C8.32457332,1.11807306 4,6.05400742 4,12 C4,17.9459926 8.32457332,22.8819269 14,23.8340831 C13.3495831,23.9432024 12.6814244,24 12,24 C5.372583,24 0,18.627417 0,12 C0,5.372583 5.372583,0 12,0 C12.6814244,0 13.3495831,0.0567975924 14,0.16591688 Z" id="Combined-Shape" fill="#FE540C"></path>
+            <circle id="Oval-Copy" stroke="#1E646B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" cx="12" cy="12" r="12"></circle>
+            <text id="1" font-family="FuturaStd-Medium, Futura Std" font-size="13" font-weight="400" line-spacing="19.5" letter-spacing="0.1733333" fill="#1E646B">
+                <tspan x="9" y="11.5">1</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

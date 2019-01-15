@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="40px" viewBox="0 0 34 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>Special icon/questionnaire</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Special-icon/questionnaire" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="special-icon/questionnaire">
+            <rect id="Rectangle-Copy-4" fill="#F8FFE5" x="0" y="25.2631579" width="34" height="14.7368421" rx="1"></rect>
+            <rect id="Rectangle-Copy-4" fill="#FE540C" x="0" y="25.2631579" width="4" height="14.7368421" rx="1"></rect>
+            <rect id="Rectangle-Copy-4" stroke="#1E646B" stroke-width="1.5" x="0.75" y="26.0131579" width="32.5" height="13.2368421" rx="1"></rect>
+            <rect id="Rectangle-Copy-3" fill="#F8FFE5" x="0" y="12.6315789" width="34" height="14.7368421" rx="1"></rect>
+            <rect id="Rectangle-Copy-3" fill="#FE540C" x="0" y="12.6315789" width="4" height="14.7368421" rx="1"></rect>
+            <rect id="Rectangle-Copy-3" stroke="#1E646B" stroke-width="1.5" x="0.75" y="13.3815789" width="32.5" height="13.2368421" rx="1"></rect>
+            <rect id="Rectangle" fill="#F8FFE5" x="0" y="0" width="34" height="14.7368421" rx="1"></rect>
+            <rect id="Rectangle" fill="#FE540C" x="0" y="0" width="4" height="14.7368421" rx="1"></rect>
+            <rect id="Rectangle" stroke="#1E646B" stroke-width="1.5" x="0.75" y="0.75" width="32.5" height="13.2368421" rx="1"></rect>
+            <path d="M7,33.4210526 L16.5855976,33.4210526" id="Stroke-12-Copy-2" stroke="#1E646B" stroke-width="1.5" stroke-linecap="round"></path>
+            <path d="M7,20.7894737 L18.5734125,20.7894737" id="Stroke-12-Copy" stroke="#1E646B" stroke-width="1.5" stroke-linecap="round"></path>
+            <path d="M23,7.19533132 L24.9391586,9.31233192 C25.1785309,9.52746831 25.2404199,9.52746831 25.4805068,9.31233192 L25.9599661,8.88333974 L30,5.26315789" id="Fill-4" stroke="#1E646B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M23,19.8269103 L24.9391586,21.9439109 C25.1785309,22.1590473 25.2404199,22.1590473 25.4805068,21.9439109 L25.9599661,21.5149187 L30,17.8947368" id="Fill-4-Copy" stroke="#1E646B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M23,32.4584892 L24.9391586,34.5754898 C25.1785309,34.7906262 25.2404199,34.7906262 25.4805068,34.5754898 L25.9599661,34.1464976 L30,30.5263158" id="Fill-4-Copy-2" stroke="#1E646B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M7,8.15789474 L14.5849103,8.15789474" id="Stroke-12" stroke="#1E646B" stroke-width="1.5" stroke-linecap="round"></path>
+        </g>
+    </g>
+</svg>
